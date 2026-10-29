@@ -13,6 +13,7 @@ Canberra, Australia. I build Python, Salt, and Kubernetes clusters that wait for
 - **Python**: `overstate`, `corvus`, `corvus-cli`
 - **Salt**: `overstate-cis`
 - **Kubernetes**: clusters with 100% uptime, 0 users
+- **Virtualization**: FreeBSD Bhyve VMs, Jails, ZFS
 - **Sponsoring** [@AlchemillaHQ](https://github.com/AlchemillaHQ): giving back (1 of 1 sponsors approves)
 
 ---
@@ -31,6 +32,12 @@ Canberra, Australia. I build Python, Salt, and Kubernetes clusters that wait for
 ## 🏆 Achievements Unlocked
 - 🦈 Pull Shark x2. Merged something. Maybe twice.
 - 🤝 Public Sponsor. I have a credit card and a heart.
+
+---
+
+## 🧰 Sylve Projects
+- [`sylve-cli`](https://github.com/mhahl/sylve-cli): CLI for managing Sylve FreeBSD clusters, Bhyve VMs, Jails, ZFS, Networking, and Backups.
+- [`sylve-ansible`](https://github.com/mhahl/sylve-ansible): repo not found under `mhahl`.
 
 ---
 
