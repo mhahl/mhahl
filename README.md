@@ -10,11 +10,11 @@ $ ssh mark@github.com
 >
 ```
 
-# 👋 Oh, hi. I'm Mark.
+# Oh hi Mark!
 
 I work at [Red Hat](https://github.com/RedHatOfficial) out of Canberra, Australia.
 
-### 🛠️ Things I've Built (Instead of Going Outside)
+### Things I've Built 
 
 - **[`sylve-cli`](https://github.com/mhahl/sylve-cli)**: A Python command-line client (`sylve(1)`) for managing [Sylve](https://github.com/AlchemillaHQ) FreeBSD clusters, Bhyve VMs, Jails, ZFS, networking, and backups from the terminal. I also sponsor [@AlchemillaHQ](https://github.com/AlchemillaHQ) because good FreeBSD virtualization tooling deserves our money.
 - **[`sylve-ansible`](https://github.com/mhahl/sylve-ansible)**: Ansible modules and roles to automate Sylve so I don't even have to type the CLI commands.
