@@ -11,3 +11,8 @@ My day-to-day is **OpenShift**, **virtualization**, and **automation**. If a mac
 - **[`overstate`](https://github.com/mhahl/overstate) & [`overstate-cis`](https://github.com/mhahl/overstate-cis)**: A web UI in front of Salt for accepting keys, firing jobs, and applying CIS baselines when you want a button to click without hiding what Salt is doing.
 - **[`sigaint-au/corvus`](https://github.com/sigaint-au/corvus) & [`corvus-cli`](https://github.com/sigaint-au/corvus-cli)**: Self-hosted secrets management for engineering teams and Kubernetes clusters, with database-level RBAC and audit logging.
 - **Infrastructure glue**: Ansible and Salt baselines for FreeBSD and Linux ([`unix-baseline`](https://github.com/mhahl/unix-baseline), [`suse-baseline-salt`](https://github.com/mhahl/suse-baseline-salt)), [`freebsd-ipa-join`](https://github.com/mhahl/freebsd-ipa-join) for enrolling FreeBSD hosts into FreeIPA without losing your weekend, and [`carbide`](https://github.com/mhahl/carbide) for running an SSH honeypot fleet.
+
+---
+
+*This README is AI-generated, because I was not going to write a page about myself by hand. All hail the great AI.*
+
